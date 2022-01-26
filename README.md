@@ -1,4 +1,6 @@
 Fourth Coffee Corporation of Seattle, Inc.
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/1e87e22e-5649-4c7a-96f7-ba67d58b051e.svg?orgId=181077132735)](https://app.soluble.cloud/repos/details/github.com/galenemery/fourthcoffee?orgId=181077132735)  
 ==========================================
 
 This cookbook is used as a demonstration with Microsoft Desired State Configuration.
